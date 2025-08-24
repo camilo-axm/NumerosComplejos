@@ -1,0 +1,17 @@
+# Ignora archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignora entornos virtuales
+venv/
+.env/
+
+# Ignora configuraciones de PyCharm
+.idea/
+
+# Ignora archivos de sistema en mi caso Windows
+.DS_Store
+Thumbs.db
+
