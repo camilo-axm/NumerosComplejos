@@ -30,6 +30,16 @@ Propiedades de los números complejos
 Se demuestran y verifican en Python dos propiedades fundamentales:
 
 El valor absoluto de un producto es igual al producto de los valores absolutos.
+### Objetivo
+Comprender cómo los conceptos de **hermiticidad, unitariedad, producto tensorial, interferencia y algoritmos cuánticos básicos** se pueden modelar usando matrices y vectores.  
 
+### Conclusión
+Estos ejercicios ilustran los fundamentos matemáticos que sustentan la **información cuántica**, mostrando cómo operaciones lineales describen la evolución y el análisis de sistemas cuánticos.  
+
+Tecnologías utilizadas
+- Python 3  
+- NumPy  
+- Matplotlib  
+- Jupyter Notebook  
 El conjugado de una suma es la suma de los conjugados.
     
